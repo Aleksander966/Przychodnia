@@ -1,0 +1,6 @@
+C:\Users\Aleksander\Desktop\uczesienakolo\uczesienakolo\bin\Debug\uczesienakolo.exe.config
+C:\Users\Aleksander\Desktop\uczesienakolo\uczesienakolo\bin\Debug\uczesienakolo.exe
+C:\Users\Aleksander\Desktop\uczesienakolo\uczesienakolo\bin\Debug\uczesienakolo.pdb
+C:\Users\Aleksander\Desktop\uczesienakolo\uczesienakolo\obj\Debug\uczesienakolo.csprojResolveAssemblyReference.cache
+C:\Users\Aleksander\Desktop\uczesienakolo\uczesienakolo\obj\Debug\uczesienakolo.exe
+C:\Users\Aleksander\Desktop\uczesienakolo\uczesienakolo\obj\Debug\uczesienakolo.pdb
